@@ -4,6 +4,8 @@ A [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) skill that
 
 When the skill is installed, Claude Code auto-activates it on prompts like `"animate this with anime.js"`, `"add a stagger timeline"`, `"SVG morph"`, `"scroll-driven animation"`, etc.
 
+Step-by-step guide and setup walkthrough: [Sliding animations with Claude Code guide on charlieautomates.com](https://charlieautomates.com/free-resources/#animejs-scroll-scrub-stack)
+
 ## Install
 
 ### One-liner (recommended)
